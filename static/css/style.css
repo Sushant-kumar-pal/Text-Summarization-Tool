@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-bottom: 20px;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.summary-options {
+    margin-top: 10px;
+}
+
+.summary-options label {
+    margin-right: 10px;
+}
+
+.summary-options input {
+    width: 80px;
+    display: inline-block;
+}
+
+textarea {
+    resize: vertical;
+    min-height: 200px;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+#fileInput {
+    display: none;
+}
